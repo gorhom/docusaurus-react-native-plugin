@@ -2,6 +2,12 @@
 
 A plugin to enable React Native Web and Reanimated on Docusaurus.
 
+## Installation
+
+```bash
+yarn add @gorhom/docusaurus-react-native-plugin -D
+```
+
 ## Usage
 
 ### Monorepo
