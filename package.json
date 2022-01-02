@@ -1,0 +1,20 @@
+{
+  "name": "@gorhom/docusaurus-react-native-plugin",
+  "version": "1.0.0",
+  "description": "A plugin to enable react native web and reanimated on Docusaurus.",
+  "main": "index.js",
+  "repository": "https://github.com/gorhom/docusaurus-react-native-plugin",
+  "author": "Mo Gorhom (https://gorhom.dev)",
+  "homepage": "https://github.com/gorhom/docusaurus-react-native-plugin",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "@babel/preset-react": "^7.16.7",
+    "babel-loader": "^8.2.3",
+    "babel-plugin-react-native-web": "^0.17.5",
+    "babel-polyfill": "^6.26.0",
+    "metro-react-native-babel-preset": "^0.66.2"
+  }
+}
