@@ -1,6 +1,6 @@
 {
   "name": "@gorhom/docusaurus-react-native-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin to enable react native web and reanimated on Docusaurus.",
   "main": "index.js",
   "repository": "https://github.com/gorhom/docusaurus-react-native-plugin",
